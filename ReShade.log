@@ -1,0 +1,233 @@
+17:41:19:868 [ 9456] | INFO  | Initializing crosire's ReShade version '6.3.1.1914' (64-bit) loaded from 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\dxgi.dll' into 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b3095_GTAProcess.exe' (0xEF02C39A) ...
+17:41:19:870 [ 9456] | INFO  | Registering hooks for 'user32.dll' ...
+17:41:19:871 [ 9456] | INFO  | > Libraries loaded.
+17:41:19:872 [ 9456] | INFO  | > Found 14 match(es). Installing ...
+17:41:19:873 [ 9456] | INFO  | Registering hooks for 'C:\WINDOWS\system32\dinput.dll' ...
+17:41:19:874 [ 9456] | INFO  | > Delayed.
+17:41:19:875 [ 9456] | INFO  | Registering hooks for 'ws2_32.dll' ...
+17:41:19:875 [ 9456] | INFO  | > Libraries loaded.
+17:41:19:875 [ 9456] | INFO  | > Found 8 match(es). Installing ...
+17:41:19:876 [ 9456] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d2d1.dll' ...
+17:41:19:876 [ 9456] | INFO  | > Libraries loaded.
+17:41:19:876 [ 9456] | INFO  | > Found 2 match(es). Installing ...
+17:41:19:877 [ 9456] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d3d9.dll' ...
+17:41:19:877 [ 9456] | INFO  | > Libraries loaded.
+17:41:19:877 [ 9456] | INFO  | > Found 11 match(es). Installing ...
+17:41:19:878 [ 9456] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d3d10.dll' ...
+17:41:19:878 [ 9456] | INFO  | > Libraries loaded.
+17:41:19:878 [ 9456] | INFO  | > Found 2 match(es). Installing ...
+17:41:19:879 [ 9456] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d3d10_1.dll' ...
+17:41:19:879 [ 9456] | INFO  | > Libraries loaded.
+17:41:19:879 [ 9456] | INFO  | > Found 2 match(es). Installing ...
+17:41:19:879 [ 9456] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d3d11.dll' ...
+17:41:19:879 [ 9456] | INFO  | > Libraries loaded.
+17:41:19:879 [ 9456] | INFO  | > Found 3 match(es). Installing ...
+17:41:19:880 [ 9456] | INFO  | Registering hooks for 'C:\WINDOWS\system32\d3d12.dll' ...
+17:41:19:881 [ 9456] | INFO  | > Delayed.
+17:41:19:881 [ 9456] | INFO  | Registering hooks for 'C:\WINDOWS\system32\dxgi.dll' ...
+17:41:19:882 [ 9456] | INFO  | > Delayed until first call to an exported function.
+17:41:19:882 [ 9456] | INFO  | Registering hooks for 'vrclient_x64.dll' ...
+17:41:19:882 [ 9456] | INFO  | > Delayed.
+17:41:19:882 [ 9456] | INFO  | Initialized.
+17:41:19:934 [15612] | INFO  | Installing delayed hooks for 'C:\WINDOWS\system32\dxgi.dll' (Just loaded via LoadLibrary('C:\WINDOWS\SYSTEM32\nvml.dll')) ...
+17:41:19:935 [15612] | INFO  | > Found 5 match(es). Installing ...
+17:41:21:025 [15184] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 0000008BF5BFFA50) ...
+17:41:21:026 [15184] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, ppDevice = 0000000000000000, pFeatureLevel = 0000008BF5BFFA58, ppImmediateContext = 0000000000000000) ...
+17:41:21:026 [15184] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+17:41:21:026 [15184] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 0000000000000000, pFeatureLevel = 0000008BF5BFFA58, ppImmediateContext = 0000000000000000) ...
+17:41:21:026 [15184] | INFO  | Redirecting CreateDXGIFactory1(riid = {770AAE78-F26F-4DBA-A829-253C83D1B387}, ppFactory = 0000008BF5BFF490) ...
+17:41:21:030 [15184] | INFO  | Using feature level b000.
+17:41:21:415 [ 9456] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 0000008BEC57E218) ...
+17:41:21:422 [ 9456] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, ppDevice = 0000000000000000, pFeatureLevel = 0000008BEC57E008, ppImmediateContext = 0000000000000000) ...
+17:41:21:423 [ 9456] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+17:41:21:423 [ 9456] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 0000000000000000, pFeatureLevel = 0000008BEC57E008, ppImmediateContext = 0000000000000000) ...
+17:41:21:423 [ 9456] | INFO  | Redirecting CreateDXGIFactory1(riid = {770AAE78-F26F-4DBA-A829-253C83D1B387}, ppFactory = 0000008BEC57DA40) ...
+17:41:21:425 [ 9456] | INFO  | Using feature level b000.
+17:41:21:429 [ 8384] | INFO  | Redirecting RegisterClassW(lpWndClass = 0000008BF5EFEDD0 { "grcWindow", style = 0x8 }) ...
+17:41:21:429 [ 8384] | INFO  | > Adding 'CS_OWNDC' window class style flag to "grcWindow".
+17:41:21:431 [ 8384] | INFO  | Redirecting CreateDXGIFactory1(riid = {770AAE78-F26F-4DBA-A829-253C83D1B387}, ppFactory = 0000008BF5EFE940) ...
+17:41:21:431 [ 8384] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 000001913975F5D0, DriverType = 0, Software = 0000000000000000, Flags = 0x20, pFeatureLevels = 0000008BF5EFEEC8, FeatureLevels = 1, SDKVersion = 7, ppDevice = 00007FF7C5FD04F8, pFeatureLevel = 0000008BF5EFF830, ppImmediateContext = 00007FF7C5FD0900) ...
+17:41:21:431 [ 8384] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+17:41:21:431 [ 8384] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 000001913975F5D0, DriverType = 0, Software = 0000000000000000, Flags = 0x20, pFeatureLevels = 0000008BF5EFEEC8, FeatureLevels = 1, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 00007FF7C5FD04F8, pFeatureLevel = 0000008BF5EFF830, ppImmediateContext = 00007FF7C5FD0900) ...
+17:41:21:467 [ 8384] | INFO  | Using feature level a000.
+17:41:21:468 [ 8384] | INFO  | Searching for add-ons (*.addon, *.addon64) in 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins' ...
+17:41:21:469 [ 8384] | INFO  | Redirecting IDXGIFactory2::CreateSwapChainForHwnd(this = 000001914126E0D0, pDevice = 00000191413170A8, hWnd = 0000000000090056, pDesc = 0000008BF5EFEC28, pFullscreenDesc = 0000008BF5EFEC58, pRestrictToOutput = 0000000000000000, ppSwapChain = ) ...
+17:41:21:469 [ 8384] | INFO  | > Dumping swap chain description:
+17:41:21:470 [ 8384] | INFO  |   +-----------------------------------------+-----------------------------------------+
+17:41:21:470 [ 8384] | INFO  |   | Parameter                               | Value                                   |
+17:41:21:470 [ 8384] | INFO  |   +-----------------------------------------+-----------------------------------------+
+17:41:21:470 [ 8384] | INFO  |   | Width                                   | 1440                                    |
+17:41:21:470 [ 8384] | INFO  |   | Height                                  | 1080                                    |
+17:41:21:470 [ 8384] | INFO  |   | RefreshRate                             | 0                   1                   |
+17:41:21:470 [ 8384] | INFO  |   | Format                                  | DXGI_FORMAT_B8G8R8A8_UNORM              |
+17:41:21:471 [ 8384] | INFO  |   | Stereo                                  | FALSE                                   |
+17:41:21:471 [ 8384] | INFO  |   | ScanlineOrdering                        | 0                                       |
+17:41:21:471 [ 8384] | INFO  |   | Scaling                                 | 0                                       |
+17:41:21:471 [ 8384] | INFO  |   | SampleCount                             | 1                                       |
+17:41:21:471 [ 8384] | INFO  |   | SampleQuality                           | 0                                       |
+17:41:21:471 [ 8384] | INFO  |   | BufferUsage                             | 0x70                                    |
+17:41:21:472 [ 8384] | INFO  |   | BufferCount                             | 2                                       |
+17:41:21:472 [ 8384] | INFO  |   | Windowed                                | TRUE                                    |
+17:41:21:472 [ 8384] | INFO  |   | SwapEffect                              | 0                                       |
+17:41:21:472 [ 8384] | INFO  |   | AlphaMode                               | 0                                       |
+17:41:21:472 [ 8384] | INFO  |   | Flags                                   | 0x2                                     |
+17:41:21:472 [ 8384] | INFO  |   +-----------------------------------------+-----------------------------------------+
+17:41:21:473 [ 8384] | INFO  | Running on NVIDIA GeForce GTX 1650 Driver 561.9.
+17:41:21:621 [ 8384] | INFO  | Recreated runtime environment on runtime 0000019141DF7360 ('C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\ReShade.ini').
+17:41:21:675 [ 8384] | INFO  | Redirecting RegisterClassExW(lpWndClassEx = 0000008BF5EFF6A0 { "ImGui Platform", style = 0x3 }) ...
+17:41:21:675 [ 8384] | INFO  | > Adding 'CS_OWNDC' window class style flag to "ImGui Platform".
+17:41:21:755 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\qUINT' with error code 2.
+17:41:21:756 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OtisFX' with error code 2.
+17:41:21:757 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Depth3D' with error code 2.
+17:41:21:762 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FXShaders' with error code 2.
+17:41:21:763 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daodan' with error code 2.
+17:41:21:763 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\brussell' with error code 2.
+17:41:21:764 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fubax' with error code 2.
+17:41:21:765 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DH' with error code 2.
+17:41:21:769 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Warp-FX' with error code 2.
+17:41:21:769 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PD80' with error code 2.
+17:41:21:770 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CorgiFX' with error code 2.
+17:41:21:772 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Insane-Shaders' with error code 2.
+17:41:21:773 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CobraFX' with error code 2.
+17:41:21:776 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AstrayFX' with error code 2.
+17:41:21:776 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CRT-Royale' with error code 2.
+17:41:21:780 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RSRetroArch' with error code 2.
+17:41:21:781 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\VRToolkit' with error code 2.
+17:41:21:781 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FGFX' with error code 2.
+17:41:21:782 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\NiceGuy-Shaders' with error code 2.
+17:41:21:784 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CShade' with error code 2.
+17:41:21:784 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ReShade_HDR_shaders' with error code 2.
+17:41:21:785 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\iMMERSE' with error code 2.
+17:41:21:787 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\vort_Shaders' with error code 2.
+17:41:21:788 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\BX-Shade' with error code 2.
+17:41:21:789 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\METEOR' with error code 2.
+17:41:21:789 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\SomeEffects' with error code 2.
+17:41:21:790 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ZN_FX' with error code 2.
+17:41:21:792 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Ptho-FX' with error code 2.
+17:41:21:793 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Quark' with error code 2.
+17:41:21:793 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\potatoFX' with error code 2.
+17:41:21:795 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Anagrama' with error code 2.
+17:41:21:796 [ 8384] | WARN  | Failed to resolve search path 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\MaxG3D' with error code 2.
+17:41:21:808 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Colourfulness.fx' in 0.008000 s.
+17:41:21:810 [  996] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DepthSharpen.fx' in 0.010000 s.
+17:41:21:810 [15868] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LUT.fx' in 0.010000 s.
+17:41:21:814 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Interlacing.fx' in 0.014000 s.
+17:41:21:814 [17232] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ThreeColorGradient.fx' in 0.014000 s.
+17:41:21:817 [12324] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\SkySave.fx' in 0.016000 s.
+17:41:21:817 [ 1792] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\GaussianBlur.fx' in 0.018000 s.
+17:41:21:818 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\4xBRZ.fx' in 0.020000 s.
+17:41:21:818 [ 6296] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CathodeRayTube.fx' in 0.019000 s.
+17:41:21:819 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FakeMotionBlur.fx' in 0.019000 s.
+17:41:21:834 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ColShift.fx' in 0.009000 s.
+17:41:21:835 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Pirate_Depth_DOF.fx' in 0.035000 s.
+17:41:21:847 [  996] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DepthSharpenStaticDof.fx' in 0.017000 s.
+17:41:21:849 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Layer.fx' in 0.012000 s.
+17:41:21:854 [17232] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Tonemap.fx' in 0.010000 s.
+17:41:21:867 [ 1792] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Glitch.fx' in 0.017000 s.
+17:41:21:882 [ 6296] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Censor.fx' in 0.020000 s.
+17:41:21:883 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FastSharpen.fx' in 0.015000 s.
+17:41:21:895 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AdaptiveColorGrading.fx' in 0.041000 s.
+17:41:21:897 [12324] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\SMAA.fx' in 0.048000 s.
+17:41:21:899 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Composition.fx' in 0.021000 s.
+17:41:21:908 [15868] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\MagicBloom.fx' in 0.072000 s.
+17:41:21:946 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FilmGrain.fx' in 0.012000 s.
+17:41:21:951 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CrossProcess.fx' in 0.009000 s.
+17:41:21:921 [  996] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DisplayDepth.fx' in 0.018000 s.
+17:41:21:928 [17232] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\UIMask.fx' in 0.019000 s.
+17:41:21:933 [ 1792] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\GlobalAlpha.fx' in 0.015000 s.
+17:41:21:933 [ 6296] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CEOG.fx' in 0.010000 s.
+17:41:21:914 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LevelIO.fx' in 0.010000 s.
+17:41:21:947 [12324] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\SmartDeNoise.fx' in 0.009000 s.
+17:41:21:918 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Pirate_Depth_GI.fx' in 0.028000 s.
+17:41:21:970 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AdaptiveSharpen.fx' in 0.032000 s.
+17:41:21:970 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CRT.fx' in 0.015000 s.
+17:41:21:972 [  996] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DisplayMod.fx' in 0.007000 s.
+17:41:21:976 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FilmGrain2.fx' in 0.024000 s.
+17:41:21:980 [15868] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\MaskGlowAdvanced.fx' in 0.034000 s.
+17:41:21:989 [ 6296] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ChromaSubSampling.fx' in 0.009000 s.
+17:41:21:990 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Levels.fx' in 0.006000 s.
+17:41:21:994 [ 1792] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\GuestCRT.fx' in 0.021000 s.
+17:41:21:996 [17232] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\VerticalPreviewer.fx' in 0.024000 s.
+17:41:22:006 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Pirate_FXAA.fx' in 0.009000 s.
+17:41:22:012 [12324] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\SmartNoise.fx' in 0.019000 s.
+17:41:22:038 [15868] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Monochrome.fx' in 0.019000 s.
+17:41:22:039 [ 6296] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ChromaticAberration.fx' in 0.008000 s.
+17:41:22:039 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\AmbientLight.fx' in 0.041000 s.
+17:41:22:046 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FilmicPass.fx' in 0.034000 s.
+17:41:22:048 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CRTGeomMOD.fx' in 0.047000 s.
+17:41:22:049 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LevelsPlus.fx' in 0.009000 s.
+17:41:22:081 [  996] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DOF.fx' in 0.078000 s.
+17:41:22:081 [12324] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Splitscreen.fx' in 0.013000 s.
+17:41:22:116 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LiftGammaGain.fx' in 0.014000 s.
+17:41:22:084 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ASCII.fx' in 0.011000 s.
+17:41:22:088 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PPFX_Bloom.fx' in 0.028000 s.
+17:41:22:090 [ 6296] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Clarity2.fx' in 0.019000 s.
+17:41:22:091 [15868] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\MotionFocus.fx' in 0.020000 s.
+17:41:22:118 [  996] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DPX.fx' in 0.015000 s.
+17:41:22:118 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Curves.fx' in 0.016000 s.
+17:41:22:127 [12324] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Spotlight.fx' in 0.014000 s.
+17:41:22:084 [ 1792] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Halation.fx' in 0.038000 s.
+17:41:22:174 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Bloom.fx' in 0.045000 s.
+17:41:22:135 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FineSharp.fx' in 0.041000 s.
+17:41:22:142 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LightDoF.fx' in 0.020000 s.
+17:41:22:149 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PPFX_Godrays.fx' in 0.019000 s.
+17:41:22:154 [ 6296] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ColorInversion.fx' in 0.011000 s.
+17:41:22:166 [15868] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\NightVision.fx' in 0.016000 s.
+17:41:22:166 [  996] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\DropShadow.fx' in 0.016000 s.
+17:41:22:168 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Daltonize.fx' in 0.014000 s.
+17:41:22:177 [12324] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\StageDepth.fx' in 0.014000 s.
+17:41:22:129 [17232] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\VHSPro.fx' in 0.075000 s.
+17:41:22:188 [ 1792] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\HighPassSharpen.fx' in 0.015000 s.
+17:41:22:193 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Border.fx' in 0.011000 s.
+17:41:22:199 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fisheye Horizontal.fx' in 0.010000 s.
+17:41:22:204 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LightPersistance.fx' in 0.010000 s.
+17:41:22:206 [ 6296] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ColorMatrix.fx' in 0.008000 s.
+17:41:22:213 [  996] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Emboss.fx' in 0.009000 s.
+17:41:22:215 [15868] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Nostalgia.fx' in 0.017000 s.
+17:41:22:222 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PPFX_SSDO.fx' in 0.028000 s.
+17:41:22:230 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Deband.fx' in 0.017000 s.
+17:41:22:242 [  996] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ExtendedLevels.fx' in 0.011000 s.
+17:41:22:243 [17232] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Vibrance.fx' in 0.025000 s.
+17:41:22:254 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Bumpmapping.fx' in 0.032000 s.
+17:41:22:245 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LocalContrast.fx' in 0.014000 s.
+17:41:22:246 [ 6296] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ColorMod.fx' in 0.014000 s.
+17:41:22:246 [12324] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\SurfaceBlur.fx' in 0.028000 s.
+17:41:22:246 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Fisheye Vertical.fx' in 0.020000 s.
+17:41:22:247 [15868] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\OrtonBloom.fx' in 0.015000 s.
+17:41:22:250 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ReflectiveBumpMapping.fx' in 0.018000 s.
+17:41:22:244 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Deblur.fx' in 0.011000 s.
+17:41:22:260 [  996] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FakeHDR.fx' in 0.009000 s.
+17:41:22:260 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LumaLines.fx' in 0.004000 s.
+17:41:22:262 [17232] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Vignette.fx' in 0.007000 s.
+17:41:22:263 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CA.fx' in 0.008000 s.
+17:41:22:268 [ 6296] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ColorToAlpha.fx' in 0.008000 s.
+17:41:22:272 [12324] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Technicolor.fx' in 0.009000 s.
+17:41:22:276 [15868] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\PatternShading.fx' in 0.007000 s.
+17:41:22:277 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\FXAA.fx' in 0.013000 s.
+17:41:22:284 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Reinhard.fx' in 0.009000 s.
+17:41:22:294 [ 1540] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Denoise.fx' in 0.017000 s.
+17:41:22:295 [17232] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\WatchDogs.fx' in 0.006000 s.
+17:41:22:295 [10144] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\LumaSharpen.fx' in 0.007000 s.
+17:41:22:304 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Cartoon.fx' in 0.010000 s.
+17:41:22:317 [ 1792] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\HQ4X.fx' in 0.095000 s.
+17:41:22:347 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\GAUSSIAN.fx' in 0.030000 s.
+17:41:22:330 [15868] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Pirate_Bloom.fx' in 0.020000 s.
+17:41:22:324 [12324] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Technicolor2.fx' in 0.014000 s.
+17:41:22:351 [15108] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\CAS.fx' in 0.010000 s.
+17:41:22:383 [16248] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\GaussianBloom.fx' in 0.029000 s.
+17:41:22:364 [17232] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\WinUaeMaskGlow.fx' in 0.033000 s.
+17:41:22:368 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\RetroTV.fx' in 0.042000 s.
+17:41:22:390 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\Sepia.fx' in 0.005000 s.
+17:41:22:395 [17232] | WARN  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\xhair.fx' in 0.011000 s with warnings:
+C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\xhair.fx(452, 20): warning X3206: implicit truncation of vector type
+C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\xhair.fx(496, 20): warning X3206: implicit truncation of vector type
+C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\xhair.fx(517, 39): warning X3206: implicit truncation of vector type
+
+17:41:22:398 [11400] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\SimpleBloom.fx' in 0.007000 s.
+17:41:22:363 [ 1792] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\HSLShift.fx' in 0.016000 s.
+17:41:22:414 [ 1792] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\HueFX.fx' in 0.007000 s.
+17:41:22:451 [ 1792] | INFO  | Successfully compiled 'C:\Users\Thronne\AppData\Local\FiveM\FiveM.app\plugins\reshade-shaders\Shaders\ImageSharpening.fx' in 0.036000 s.
+17:41:28:221 [ 8384] | INFO  | Redirecting CreateDXGIFactory1(riid = {770AAE78-F26F-4DBA-A829-253C83D1B387}, ppFactory = 0000008BF5EFEF40) ...
+17:42:31:119 [ 8384] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 0000008BF5EFEED8) ...
+17:42:31:422 [ 8384] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 0000008BF5EFEED8) ...
+18:06:22:375 [ 3904] | INFO  | Redirecting RegisterClassW(lpWndClass = 0000008BFBBFF740 { "Cfx_GlobalInputWindow", style = 0 }) ...
